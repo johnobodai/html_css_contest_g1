@@ -1,0 +1,39 @@
+ {
+    box-sizing: border-box;
+    font-family: Helvetica;
+}
+
+body {
+    background-color: #d6d6d6;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    background-color:  #3f70a2  ;
+}
+h2 {
+    text-align: center;
+    color: black;
+    background-color:  #3f70a2  ;
+}
+h3 {
+    text-align: center;
+    color: black;
+    background-color:  #3f70a2  ;
+}
+h4 {
+    text-align: center;
+    color: black;
+    background-color:  #3f70a2  ;
+}
+section {
+    border: 1px solid black;
+    background-color: #b5c4d2;
+    margin: 10px;
+}
+
+
+section>p {
+    padding: 40px 15px 15px 15px;
+}
