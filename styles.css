@@ -1,0 +1,55 @@
+/* Header
+============================== */
+
+/* .{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: darkgray;
+}
+li, a, button {
+  font-family: sans-serif;
+  font-weight: 500;
+  font: 16px;
+  text-decoration: none;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding 30px 10%;
+} */
+/* .header {
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.header .container {
+  max-height: min-content;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header-logo {
+  position: relative;
+  display: flex;
+  margin: 0;
+}
+.header .nav {
+  margin: 1rem;
+  padding: 1rem;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+}
+.header .nav-menu {
+  display: flex;
+}
+.nav-item {
+  display: inline-block;
+  padding: 0;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 100;
+  font-size: 14px;
+  letter-spacing: normal;
+} */
