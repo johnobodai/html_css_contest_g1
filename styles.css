@@ -18,9 +18,9 @@ header {
   justify-content: space-between;
   align-items: center;
   padding 30px 10%;
-} */
-/* .header {
-  max-width: 960px;
+} 
+/* .header */
+ /* max-width: 960px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -52,4 +52,22 @@ header {
   font-weight: 100;
   font-size: 14px;
   letter-spacing: normal;
+} */ */
+/* .menu {
+  position: absolute;
+  height: 15px;
+  left: 1041px;
+  top: 37px;
+  font-family: "Source Sans Pro";
+  font-size: 12px;
+  font-weight: bold;
+}
+.menu a {
+  padding: 16px;
+  color: white;
+  text-decoration: none;
+}
+.menu a:hover {
+  background: gainsboro;
+  color: beige;
 } */
