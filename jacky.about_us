@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<HTML LANG="EN">
+<HEAD>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
+    <TITLE><B>ABOUT US!</B></TITLE>
+    <link rel="stylesheet" href="about.css">
+
+</HEAD>
+<BODY>
+    <H1><b>OUR HISTORY</b></H1>
+    <p>The company started as seven very passionate college students who wanted to explore the tech industry by putting to use all they were learning at university.<br>
+    We started simple but here we are now, among the best.</p>
+    <H2><B>MEET THE TEAM</B></h2>
+    <div class="row">
+        <div class="c1m">
+            <img src="#" alt="profile" width="100"/><br> TENNY
+        </div>
+        <div class="c1m">
+            <img src="#" alt="profile" width="100"/><BR> DIANA
+        </div>
+        <div class="c1m">
+            <img src="#" alt="profile" width="100"/><BR> ARDINE
+        </div>
+        <div class="c1m">
+            <img src="#" alt="profile" width="100"/><BR> ALOYSIE
+        </div>
+        <div class="c1m">
+            <img src="#" alt="profile" width="100"/><BR>JACKY
+        </div>
+        <div class="c1m">
+            <img src="#" alt="profile" width="100"/><BR> JOHN
+        </div>
+        <div class="c1m">
+            <img src="#" alt="profile" width="100"/><BR >VICTORIA
+        </div>
+    </div>
+
+     <div class="main">
+        <div class="navbar">
+            <div class="icon">
+                <h2 class="logo">BeWSites</h2>
+            </div>
+
+            <div class="menu">
+                <ul>
+                    <li><a href="#">HOME</a></li>
+                    <li><a href="service.html">SERVICES</a></li>
+                    <li><a href="about.html">ABOUT US</a></li>
+                    <li><a href="#">CONTACT</a></li>
+                </ul>
+            </div>
+
+    <H3><B>WHAT WE VALUE!</B></H3>
+    <P><UL>-Integrity <br> -Fairness <br> -Honesty <BR> -Promise to our customers</UL></P>
+    <H4><B>UNIQUENESS OF OUR WORK!</B></H4>
+    <P>Apart from offering quality work , we offer our clients free 6 month consultation and technical support after finishing their product</P>
+</BODY>
+</HTML>
